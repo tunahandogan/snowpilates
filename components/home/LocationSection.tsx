@@ -30,7 +30,7 @@ export function LocationSection() {
           </div>
         </Reveal>
         <Reveal delay={0.1}>
-          <MapEmbed className="h-80 w-full overflow-hidden rounded-3xl md:h-[26rem]" />
+          <MapEmbed className="w-full" />
         </Reveal>
       </div>
     </section>
